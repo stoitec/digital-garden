@@ -1,0 +1,1 @@
+Un token est une representation digitale d'une "unité de possession" qui peut être échangée entre les différents parties.

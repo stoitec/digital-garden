@@ -1,0 +1,1 @@
+C'est une façon qui assure que la transaction est valide sans nécessité une authorité centrale pour cela, sans qu'il y ai de double dépense.

@@ -1,0 +1,1 @@
+Ensemble de [[token]] échangés dans la blockchain par le biais d'algorithme cryptographique afin de sécuriser les [[valid transaction]] entre les différents parties dit "P2P"
