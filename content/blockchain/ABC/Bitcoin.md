@@ -1,1 +1,0 @@
-Le bitcoin est une crypto monnaie qui est executée dans la blockchain.

@@ -1,1 +1,0 @@
-Les différents parties sont certains que cet échange s'est passé et ne peut plus être négligé.

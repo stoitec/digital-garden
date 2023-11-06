@@ -1,1 +1,0 @@
-La possibilité qu'un partie copie/colle et réutilise une transaction électronique (par ex : un paiement)

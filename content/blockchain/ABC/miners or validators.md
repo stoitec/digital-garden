@@ -1,1 +1,0 @@
-Participants du réseau dédié à la validation des transactions et à éviter les [[double spending]] 

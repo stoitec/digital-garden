@@ -1,1 +1,0 @@
-Un smart contract est un programme informatique permettant lorsqu'il est appelé d'executer automatiquement certaines instructions pour ensuite transférer des tokens.
