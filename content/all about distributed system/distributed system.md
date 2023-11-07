@@ -1,6 +1,13 @@
+---
+tags:
+  - system_design
+draft: false
+title: Distributed System
+---
 A distributed system is a group of independent machine connected together through a network, working together like a unique system. Those machines share tasks to achieve a common goal, in the client side the distributed system looks like a unique system.
 The majors challenge of a distributed system include synchronization fault tolerance and failure management.
-> Distributed system is a pandora's box, we should open it only if we have to.
+> [!abstract] 
+> "Distributed system is a pandora's box, we should open it only if we have to."
 > **- Martin Kleppmann**
 ## Why make a system distributed ?
 
@@ -48,3 +55,6 @@ Many trouble could occurs with a distributed system, I classified them in 6 type
 - Load balancing problems:
 	- Unequal distribution of work: Some nodes could be overload while others could be under-utilized.
 	- Dynamic allocation strategy: How to distribute tasks through nodes according to their workload.
+
+Links:
+- [[rpc]]

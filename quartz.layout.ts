@@ -19,10 +19,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph({
       localGraph: {
         fontSize: 0.4, // what size should the node labels be?
-        opacityScale: 1.8,
+        opacityScale: 2.2,
+        scale: 2
       },
       globalGraph: {
         fontSize: 0.4,
+        opacityScale: 2.2,
+        scale: 2,
       },
     }),
     Component.Breadcrumbs(),
