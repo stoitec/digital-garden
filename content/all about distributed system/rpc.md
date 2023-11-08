@@ -38,5 +38,5 @@ service PaymentService {
 }
 ```
 
-Links:
+**Links:**
 - [[distributed system]]

@@ -1,7 +1,7 @@
 ---
 title: The two generals problem
 tags:
-  - system_design
+  - "#system_design"
   - blockchain
 draft: false
 ---
@@ -45,5 +45,4 @@ It works because there are a bunch of second level safe guard that guarantee a r
 It's possible to solve this problem because the charge is a revocable action, so it's possible to get back to a safe state, but for the army, if one attacks without the other, the defeat cannot be <kbd><kbd>Ctrl</kbd> + Z</kbd>
 
 Links:
-- [[rpc]]
 - [[distributed system]]

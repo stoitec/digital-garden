@@ -56,6 +56,7 @@ Many trouble could occurs with a distributed system, I classified them in 6 type
 	- Unequal distribution of work: Some nodes could be overload while others could be under-utilized.
 	- Dynamic allocation strategy: How to distribute tasks through nodes according to their workload.
 
-Links:
+**Links:**
 - [[rpc]]
 - [[two generals problem]]
+- [[byzantine generals problem]]
