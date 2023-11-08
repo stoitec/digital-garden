@@ -1,8 +1,8 @@
 ---
+title: RPC - Remote Procedure Call
 tags:
   - programming
 draft: false
-title: RPC - Remote Procedure Call
 ---
 Remote Procedure Call, or RPC, is a fundamental concept in [[distributed system]] where a function call appears to be local but is actually executed on a different node.
 ## How it works ?

@@ -1,8 +1,8 @@
 ---
+title: Distributed System
 tags:
   - system_design
 draft: false
-title: Distributed System
 ---
 A distributed system is a group of independent machine connected together through a network, working together like a unique system. Those machines share tasks to achieve a common goal, in the client side the distributed system looks like a unique system.
 The majors challenge of a distributed system include synchronization fault tolerance and failure management.

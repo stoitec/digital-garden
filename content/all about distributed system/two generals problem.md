@@ -1,7 +1,7 @@
 ---
 title: The two generals problem
 tags:
-  - "#system_design"
+  - system_design
   - blockchain
 draft: false
 ---
