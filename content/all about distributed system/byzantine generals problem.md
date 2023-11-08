@@ -5,6 +5,7 @@ tags:
   - blockchain
 draft: false
 ---
+![[src/img/Pasted image 20231108200832.png]]
 The Byzantine Generals Problem is an allegorical representation of the challenges in achieving consensus within a distributed system with potentially unreliable components.
 
 ## The problem
