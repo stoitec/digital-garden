@@ -58,3 +58,4 @@ Many trouble could occurs with a distributed system, I classified them in 6 type
 
 Links:
 - [[rpc]]
+- [[two generals problem]]
