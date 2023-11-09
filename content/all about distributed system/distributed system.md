@@ -11,16 +11,16 @@ The majors challenge of a distributed system include synchronization fault toler
 > **- Martin Kleppmann**
 ## Why make a system distributed ?
 
-**Sometimes it's a mandatory**
+**Sometimes it's a mandatory** <br>
 Sending a message from your mobile phone to your friend's phone is a distributed system as it involves 3 machines, your phone, your friend's phone and the server whose role is to carry out the communication between the two of you.
 
-**When your need better reliability**
+**When your need better reliability** <br>
 If you have a unique server if this server fails, the whole system is unavailable, if you have a distributed system, even if one node fails the system keeps functioning.
 
-**Blazingly faaast**
+**Blazingly faaast** <br>
 With a distributed system you can get data from a nearby node rather than one halfway round the world.
 
-**To solve bigger problems**
+**To solve bigger problems** <br>
 The huge size of the world wide web index cannot be stored by a unique computer, even if we could it would be a bad idea, distributed system make sens for 2 main features:
 
 <u>Data distribution</u>: The web index data can be distributed and stored through multiple different machines.

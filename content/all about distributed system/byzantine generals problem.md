@@ -38,7 +38,7 @@ pie title Byzantine army
     "Malicious Generals" : 4
 ```
 
-**Practical Relevance** 
+## Practical Relevance
 In real-world scenarios, similar issues arise, such as in online transactions where all parties must reach a consensus on the status of an order. The shop may distrusts the customer out of concern that they could try to order items without paying for them. From the perspective of the payment service, the shop could be fraudulent, for instance someone might setup a fake shop and use stolen credit card numbers to process numerous transactions, thereby obtaining money without providing any services or goods to the customer, and so on..
 
 **Links:**

@@ -19,19 +19,19 @@ Let's assume that **General A** needs confirmation from **General B** before att
 ```mermaid
 sequenceDiagram
 loop infinite need of confirmation
-    General A -->> General B: I want to attack at 8am
-    General B -->> General A: Ok for me
-	General A -->> General B: I received your confirmation
-    General B -->> General A: I received yours too
+    General A ->> General B: I want to attack at 8am
+    General B ->> General A: Ok for me
+	General A ->> General B: I received your confirmation
+    General B ->> General A: I received yours too
   end
 ```
 A real-life example of this problem can occur between a customer, an online shop and a payments service, assuming the payments service charged the customer's card when the online shop requested it, if the online shop doesn't receive a success response from the payments service because the packet is lost for some reason, the shop will not dispatch the item to the customer.
 ```mermaid
 sequenceDiagram
-    customer -->> online shop: Buy an item
-    online shop -->> payments service: RPC Call paymentProcess()
-    payments service ->> online shop: response: success
-	online shop ->> customer: dispatch goods
+    customer ->> online shop: Buy an item
+    online shop ->> payments service: RPC Call paymentProcess()
+    payments service -->> online shop: response: success
+	online shop -->> customer: dispatch goods
 ```
 The parallel with the two generals problem happens between the shop and the payments services, the [[rpc]] call is the messenger and each of them needs the confirmation that the other has fulfilled its part of the contract.
 The O_S needs a confirmation from the P_S to be sure that the client's credit card has been charged, otherwise the O_S will send the goods for free.
@@ -39,7 +39,7 @@ If the O_S doesn't dispatch the goods and the P_S charge the card, the customer 
 
 The messages might get lost, so it's not possible for the online shop or the payments service to achieve the certainty that one action will happen if and only if the other action happens too.
 
-**So why do online shops still work in real life?**
+**So why do online shops still work in real life?** <br>
 It works because there are a bunch of second level safe guard that guarantee a reasonable outcome, for example if the card is charged but the shop doesn't have enough stock to fulfill the client's order, the shop will send an apology email to the client and issue a refund.
 
 It's possible to solve this problem because the charge is a revocable action, so it's possible to get back to a safe state, but for the army, if one attacks without the other, the defeat cannot be <kbd><kbd>Ctrl</kbd> + Z</kbd>
