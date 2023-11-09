@@ -58,8 +58,8 @@ Life is full of people who will try to hold you back, thinking that what is impo
 **10. Failure counts as done:**
 Be ambitious, fail, try, failure is an END in itself. From failure comes a lesson, and from these lessons will result success. So FAIL. In our society, we only see the lucky ones, those who have a four-leaf clover on their path, but you know what? Poor them, they have zero lessons to their credit, they have not known failure, <u>rapid success is a curse.</u>
 > [!abstract]
-"Taylor Swift telling you to follow your dream is like a lottery winner saying:
- "Liquidise your assets! Buy powerball tickets! it works!" " - **Bo Burnham**
+ >"Taylor Swift telling you to follow your dream is like a lottery winner saying:
+ > "Liquidise your assets! Buy powerball tickets! it works!" " - **Bo Burnham**
 
 ![](https://i.imgur.com/TeGczo6.png)
 **11. Destruction is a variant of done:**
